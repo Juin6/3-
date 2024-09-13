@@ -1,0 +1,35 @@
+# .env 파일을 Git에서 무시
+.env
+
+# macOS에서 생성되는 시스템 파일 무시
+.DS_Store
+
+# Python 관련 파일 무시
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Visual Studio Code 설정 파일 무시
+.vscode/
+
+# Jupyter Notebook Checkpoints 무시
+.ipynb_checkpoints/
+
+# 환경 설정 파일 무시
+*.env
+*.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# 기타 IDE 설정 파일 무시
+.idea/

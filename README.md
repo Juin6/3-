@@ -1,0 +1,1 @@
+ 유튜브 api 발급 필요. 발급 후 .env 파일에 ‘YOUTUBE_API_KEY’로 저장
